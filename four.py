@@ -9,7 +9,6 @@ def display_3x3_formation():
     
     random_array = data[random_index]
     
-    
     first_element = random_array[0]
     
    
